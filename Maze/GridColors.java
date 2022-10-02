@@ -1,9 +1,6 @@
 package Maze;
 /*
- *  Author:Dixaben Patel 10456998
- *  CS 570A - Data Structure
- *  Homework Assignment #3 The Maze
- * 
+ *  Author:Dixa Patel 
  */
 import java.util.*;
 import java.awt.Color;
