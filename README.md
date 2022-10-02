@@ -5,7 +5,7 @@ at the cell (0,0) and the exit point is the cell (getNCols()-1,getNRows()-1). Th
 and getNRows() are methods of the class TwoDimGrid described below. All cells that can be part of
 the path will be in the NON_BACKGROUND color. 
 
-
+<img width="407" alt="image" src="https://user-images.githubusercontent.com/87237633/193433413-f86c7021-f079-4a3f-b50e-9c6fc608fe16.png">
 
 
 All the cells that represent barriers and cannot be part of the path will be in the BACKGROUND color. To keep track of a cell that
