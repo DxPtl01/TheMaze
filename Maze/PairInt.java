@@ -1,9 +1,7 @@
 /*
- *  Author:Dixaben Patel 10456998
- *  CS 570A - Data Structure
- *  Homework Assignment #3 The Maze
- * 
+ *  Author:Dixa Patel 
  */
+
 package Maze;
 
 public class PairInt {
